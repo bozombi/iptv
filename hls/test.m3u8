@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000,RESOLUTION=1080x720
-http://iptv.ndasat.com:88/live/229977716475808/229977716475808/1072.m3u8
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/XKrUKfD4d469sPMknhE7Q9aiNKst6iSXPUbB_Hm1On-lnQsVf2OLyyqVbr6NcohNpgViyOQ5iB_Ay9k6PHsrPQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
+
