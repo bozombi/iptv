@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000,RESOLUTION=1080x720
-http://46.47.116.76:18080/Diema_Sport_2_HD/mpegts?token=test
+http://server.sibfungold.info:8080/live/gaicu84/iVMgaicu84DNfwV/50076.m3u8
