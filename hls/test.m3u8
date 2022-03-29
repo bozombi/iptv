@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000,RESOLUTION=1080x720
-https://videodelivery.net/ed9403094b80714370918d145f95d90f/manifest/stream_t1_r3.m3u8
+http://dmsat2021.ddns.net:8080/live/SP_ARABIC/dgKUEDcq/1973.m3u8
